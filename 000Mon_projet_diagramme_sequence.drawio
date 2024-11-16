@@ -1,0 +1,277 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.14">
+  <diagram name="Page-1" id="75cmEU_KEVqC0oi8ZKjM">
+    <mxGraphModel dx="1100" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sndD09YfNHuxdevl2rgE-3" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="20" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-4" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlBoundary;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="50" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-5" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="40" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-6" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+          <mxGeometry x="580" y="110" width="40" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-7" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+          <mxGeometry x="730" y="110" width="40" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-8" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="110" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-9" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="890" as="sourcePoint" />
+            <mxPoint x="1130" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-10" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlControl;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="120" width="40" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-11" value="Personnel Medical" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="110" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-13" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1720" y="880" as="sourcePoint" />
+            <mxPoint x="1720" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="sndD09YfNHuxdevl2rgE-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="200" as="sourcePoint" />
+            <mxPoint x="174.5" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-24" value="Demande de prendre rendez vous" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="50" y="185" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-33" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="410" as="sourcePoint" />
+            <mxPoint x="225.24999999999977" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-34" value="Sélectionneer le crénneau" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sndD09YfNHuxdevl2rgE-33">
+          <mxGeometry x="-0.7718" y="3" relative="1" as="geometry">
+            <mxPoint x="60" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="sndD09YfNHuxdevl2rgE-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="220" as="sourcePoint" />
+            <mxPoint x="395.2499999999998" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-36" value="Requete de disponibilité du personnel" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sndD09YfNHuxdevl2rgE-35">
+          <mxGeometry x="-0.7718" y="3" relative="1" as="geometry">
+            <mxPoint x="60" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="sndD09YfNHuxdevl2rgE-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="420" as="sourcePoint" />
+            <mxPoint x="395.2499999999998" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-38" value="valider rendez vous" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sndD09YfNHuxdevl2rgE-37">
+          <mxGeometry x="-0.7718" y="3" relative="1" as="geometry">
+            <mxPoint x="60" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="sndD09YfNHuxdevl2rgE-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="240" as="sourcePoint" />
+            <mxPoint x="635.2499999999998" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-40" value="Sélectionneer le crénneau" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sndD09YfNHuxdevl2rgE-39">
+          <mxGeometry x="-0.7718" y="3" relative="1" as="geometry">
+            <mxPoint x="60" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="440" as="sourcePoint" />
+            <mxPoint x="1130" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-42" value="Enregistre le rendez vous" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sndD09YfNHuxdevl2rgE-41">
+          <mxGeometry x="-0.7718" y="3" relative="1" as="geometry">
+            <mxPoint x="60" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-43" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" source="sndD09YfNHuxdevl2rgE-45">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="370" y="540" as="sourcePoint" />
+            <mxPoint x="1738.5714285714287" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-44" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" source="sndD09YfNHuxdevl2rgE-47">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="50" y="740" as="sourcePoint" />
+            <mxPoint x="1735.7142857142858" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-46" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" source="sndD09YfNHuxdevl2rgE-3" target="sndD09YfNHuxdevl2rgE-45">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="49" y="540" as="sourcePoint" />
+            <mxPoint x="1738.5714285714287" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-45" value="&lt;b&gt;Gestion soins&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="690" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-48" value="" style="shape=link;html=1;rounded=0;" edge="1" parent="1" target="sndD09YfNHuxdevl2rgE-47">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="50" y="740" as="sourcePoint" />
+            <mxPoint x="1735.7142857142858" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-47" value="&lt;b&gt;Facturation&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="700" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="sndD09YfNHuxdevl2rgE-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="620" as="sourcePoint" />
+            <mxPoint x="395.2499999999998" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-50" value="Transmettre les informations sur les soins" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sndD09YfNHuxdevl2rgE-49">
+          <mxGeometry x="-0.7718" y="3" relative="1" as="geometry">
+            <mxPoint x="60" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="650" as="sourcePoint" />
+            <mxPoint x="1130" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-52" value="Enregistre les soins dans le dossier medical" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sndD09YfNHuxdevl2rgE-51">
+          <mxGeometry x="-0.7718" y="3" relative="1" as="geometry">
+            <mxPoint x="60" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-53" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="sndD09YfNHuxdevl2rgE-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="800" as="sourcePoint" />
+            <mxPoint x="395.2499999999998" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-54" value="Generer facture" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sndD09YfNHuxdevl2rgE-53">
+          <mxGeometry x="-0.7718" y="3" relative="1" as="geometry">
+            <mxPoint x="60" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="830" as="sourcePoint" />
+            <mxPoint x="1135.7142857142858" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="717.63" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-56" value="Enregistrer la facture et lié au dossier" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sndD09YfNHuxdevl2rgE-55">
+          <mxGeometry x="-0.7718" y="3" relative="1" as="geometry">
+            <mxPoint x="60" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-57" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1130" y="352" as="sourcePoint" />
+            <mxPoint x="1499.5" y="352" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-58" value="Renvoie les disponnibilités" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="330" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-62" value="Consulter plnning du personnel et état des salles" style="html=1;verticalAlign=bottom;endArrow=classic;endSize=8;curved=0;rounded=0;endFill=1;" edge="1" parent="1" source="sndD09YfNHuxdevl2rgE-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="320" as="sourcePoint" />
+            <mxPoint x="1130" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-63" value="Renvoi la Liste des crénaux disponible" style="html=1;verticalAlign=bottom;endArrow=classic;dashed=1;endSize=8;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1499.5" y="380" as="sourcePoint" />
+            <mxPoint x="459.07142857142844" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-64" value="Afficher crennaux disponible" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="sndD09YfNHuxdevl2rgE-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="390" as="sourcePoint" />
+            <mxPoint x="230" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-66" value="Confirmation d&#39;enregistrement" style="html=1;verticalAlign=bottom;endArrow=classic;dashed=1;endSize=8;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="470" as="sourcePoint" />
+            <mxPoint x="460" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-68" value="Confirmer la prise de rendez vous" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="sndD09YfNHuxdevl2rgE-5" target="sndD09YfNHuxdevl2rgE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="500" as="sourcePoint" />
+            <mxPoint x="250" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-70" value="Confirmation d&#39;enregistrement" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="680" as="sourcePoint" />
+            <mxPoint x="750" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-72" value="Confirmation des soins enregistré" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="sndD09YfNHuxdevl2rgE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="700" as="sourcePoint" />
+            <mxPoint x="670" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-73" value="Confirmation d&#39;enregistrement" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="860" as="sourcePoint" />
+            <mxPoint x="600" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-74" value="afficher montant a payer" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="sndD09YfNHuxdevl2rgE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="880" as="sourcePoint" />
+            <mxPoint x="520" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-75" value="Enregistre les soins administré" style="html=1;verticalAlign=bottom;endArrow=block;endSize=8;curved=0;rounded=0;endFill=1;" edge="1" parent="1" target="sndD09YfNHuxdevl2rgE-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1720" y="600" as="sourcePoint" />
+            <mxPoint x="1640" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-76" value="Patient" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="98" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-77" value="Interface" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="98" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-78" value="Systeme rendez vous" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="78" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-79" value="Systeme facturation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="88" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-80" value="Systeme soins" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="88" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-81" value="Base de donnée" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1065" y="78" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sndD09YfNHuxdevl2rgE-82" value="Systeme ressource" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1435" y="98" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
